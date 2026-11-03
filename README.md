@@ -11,7 +11,8 @@ Created by a Doctor of Science who teaches at a university and works as a strate
 
 | Service | Language | Account |
 |---|---|---|
-| YouTube | English / 日本語 | [@GeorgeGamoStudio](https://www.youtube.com/@GeorgeGamoStudio) |
+| YouTube | English | [@GeorgeGamoStudio](https://www.youtube.com/@GeorgeGamoStudio) |
+| YouTube | 日本語 | [@GeorgeGamoStudioJP](https://www.youtube.com/@GeorgeGamoStudioJP) |
 | Instagram | English | [@georgegamo.studio](https://www.instagram.com/georgegamo.studio/) |
 | Instagram | 日本語 | [@georgegamo.studio.jp](https://www.instagram.com/georgegamo.studio.jp/) |
 | Threads | English | [@georgegamo.studio](https://www.threads.com/@georgegamo.studio) |
