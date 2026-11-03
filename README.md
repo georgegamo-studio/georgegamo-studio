@@ -1,16 +1,24 @@
-## Hi there 👋
+# George Gamo Studio
 
-<!--
-**georgegamo-studio/georgegamo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Science & strategy stories you play — organic chemistry, medicine and business strategy.
+Every episode ends with a choice, and the audience vote decides what happens next.
+Created by a Doctor of Science who teaches at a university and works as a strategy consultant.
 
-Here are some ideas to get you started:
+化学・医学・経営戦略の「選べる物語」。各話の最後の選択を、みなさんの投票で決めます。
+理学博士・現役の大学教員・戦略コンサルタントが制作しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find us / アカウント一覧
+
+| Service | Language | Account |
+|---|---|---|
+| YouTube | English / 日本語 | [@GeorgeGamoStudio](https://www.youtube.com/@GeorgeGamoStudio) |
+| Instagram | English | [@georgegamo.studio](https://www.instagram.com/georgegamo.studio/) |
+| Instagram | 日本語 | [@georgegamo.studio.jp](https://www.instagram.com/georgegamo.studio.jp/) |
+| Threads | English | [@georgegamo.studio](https://www.threads.com/@georgegamo.studio) |
+| Threads | 日本語 | [@georgegamo.studio.jp](https://www.threads.com/@georgegamo.studio.jp) |
+| X | English | [@GeorgeGamoStd](https://x.com/GeorgeGamoStd) |
+| TikTok | English | [@georgegamo.studio.en](https://www.tiktok.com/@georgegamo.studio.en) |
+| TikTok | 日本語 | [@georgegamo.studio.jp](https://www.tiktok.com/@georgegamo.studio.jp) |
+
+Fiction for learning — not medical, financial or professional advice. Made with AI, reviewed by the creator before posting.
+学習用のフィクションです。医療・金融・専門的な助言ではありません。AIを使って制作し、公開前に制作者が確認しています。
