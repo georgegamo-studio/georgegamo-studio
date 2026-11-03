@@ -18,8 +18,11 @@ Created by a Doctor of Science who teaches at a university and works as a strate
 | Threads | English | [@georgegamo.studio](https://www.threads.com/@georgegamo.studio) |
 | Threads | 日本語 | [@georgegamo.studio.jp](https://www.threads.com/@georgegamo.studio.jp) |
 | X | English | [@GeorgeGamoStd](https://x.com/GeorgeGamoStd) |
+| X | 日本語 | [@GeorgeGamoJP](https://x.com/GeorgeGamoJP) |
 | TikTok | English | [@georgegamo.studio.en](https://www.tiktok.com/@georgegamo.studio.en) |
 | TikTok | 日本語 | [@georgegamo.studio.jp](https://www.tiktok.com/@georgegamo.studio.jp) |
+| Pinterest | English / 日本語 | [@georgegamostudio](https://www.pinterest.com/georgegamostudio/) |
+| note | 日本語 | [georgegamostudio](https://note.com/georgegamostudio) |
 
 Fiction for learning — not medical, financial or professional advice. Made with AI, reviewed by the creator before posting.
 学習用のフィクションです。医療・金融・専門的な助言ではありません。AIを使って制作し、公開前に制作者が確認しています。
